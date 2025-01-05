@@ -1,0 +1,8 @@
+@article{REPO057,
+    author = "Liao, Weibin and Zhu, Yinghao and Wang, Xinyuan and Pan, Chengwei and Wang, Yasha and Ma, Liantao",
+    archiveprefix = "arXiv",
+    eprint = "2403.05246",
+    primaryclass = "eess.IV",
+    title = "{LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation}",
+    year = "2024"
+}
