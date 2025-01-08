@@ -1,0 +1,1 @@
+nnUNetv2_predict -i /data/ZhipengLiu/projects/LightM-UNet/data/raw_data/Dataset002_LiverCT/imagesTs -o /data/ZhipengLiu/projects/LightM-UNet/data/predict_data/Dataset002_LiverCT_9 -d 2 -f all -c 3d_fullres -tr nnUNetTrainerLightMUNet --disable_tta

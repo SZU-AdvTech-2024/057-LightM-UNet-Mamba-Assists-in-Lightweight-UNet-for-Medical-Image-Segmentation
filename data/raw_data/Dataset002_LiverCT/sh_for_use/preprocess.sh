@@ -1,0 +1,1 @@
+nnUNetv2_plan_and_preprocess -d 2 --verify_dataset_integrity
